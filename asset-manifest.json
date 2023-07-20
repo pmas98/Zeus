@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pmas98/Zeus/static/css/main.07a6e487.css",
+    "main.js": "/pmas98/Zeus/static/js/main.17b12538.js",
+    "index.html": "/pmas98/Zeus/index.html",
+    "main.07a6e487.css.map": "/pmas98/Zeus/static/css/main.07a6e487.css.map",
+    "main.17b12538.js.map": "/pmas98/Zeus/static/js/main.17b12538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a6e487.css",
+    "static/js/main.17b12538.js"
+  ]
+}
